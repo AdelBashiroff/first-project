@@ -1,1 +1,1 @@
-https://github.com/AdelBashiroff/first-project
+https://github.com/AdelBashiroff/ono-tebe-nado-ad
