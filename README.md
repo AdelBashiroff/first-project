@@ -1,1 +1,1 @@
-https://github.com/AdelBashiroff/ono-tebe-nado-ad
+https://github.com/AdelBashiroff/posmotri-v-okno-ad
